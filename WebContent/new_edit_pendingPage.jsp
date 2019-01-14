@@ -369,7 +369,7 @@
 					</table>
     				<!-- Display table -->
     					<section class="panel">
-    				<header class="panel-heading" >
+    				<header class="panel-heading" style="margin-top:3%">
     									<div class="panel-actions">
 										<a href="#" class="fa fa-caret-down"></a>
 									</div>
