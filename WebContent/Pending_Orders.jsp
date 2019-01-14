@@ -109,7 +109,7 @@
 						<div class="nano-content">
 							<nav id="menu" class="nav-main" role="navigation">
 								<ul class="nav nav-main">
-									<li class="nav-parent">
+									<li class="nav-active">
 										<a href="index.jsp">
 											<i class="fa fa-home" aria-hidden="true"></i>
 											<span>Dashboard</span>
@@ -134,7 +134,7 @@
 											
 										</ul>
 									</li>
-									<li class="nav-active">
+									<li class="nav-parent">
 										<a>
 											<i class="fa fa-tasks" aria-hidden="true"></i>
 											<span>Marketing</span>
