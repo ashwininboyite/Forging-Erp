@@ -8,7 +8,7 @@
 		<!-- Basic -->
 		<meta charset="UTF-8">
 
-		<title>Product Order</title>
+		<title>Pending orders</title>
 		<meta name="keywords" content="HTML5 Admin Template" />
 		<meta name="description" content="JSOFT Admin - Responsive HTML5 Template">
 		<meta name="author" content="JSOFT.net">
@@ -329,7 +329,7 @@
 
 				<section role="main" class="content-body">
 					<header class="page-header">
-						<h2>Product Order</h2>
+						<h2>Pending orders</h2>
 					
 						<div class="right-wrapper pull-right">
 							<ol class="breadcrumbs">
@@ -339,7 +339,7 @@
 									</a>
 								</li>
 								<li><span>Marketing</span></li>
-								<li><span><a href="Pending_Orders.jsp">Product Order</a></span>
+								<li><span><a href="Pending_Orders.jsp">Pending orders</a></span>
 							</ol>
 					
 							<a class="sidebar-right-toggle" data-open="sidebar-right"><i class="fa fa-chevron-left"></i></a>
