@@ -369,7 +369,7 @@
 					</table>
     				<!-- Display table -->
     					<section class="panel">
-    				<header class="panel-heading" style="margin-top:3%">
+    				<header class="panel-heading" >
     									<div class="panel-actions">
 										<a href="#" class="fa fa-caret-down"></a>
 									</div>
@@ -405,7 +405,7 @@
 										</div>
 									
 						
-    					<div class="panel-body" style="margin-top:3%">
+    					<div class="panel-body" >
 										<div class="table-responsive">
 											<table class="table table-bordered mb-none">
 												<thead>
@@ -441,7 +441,7 @@
 											</table>
 										</div>
 									</div>
-					<div class="panel-body" style="margin-top:3%">
+					<div class="panel-body" >
 										<div class="table-responsive">
 											<table class="table table-bordered mb-none">
 												<thead>
@@ -492,7 +492,7 @@
 											</table>
 										</div>
 									</div>
-    					<div class="panel-body" style="margin-top:3%">
+    					<div class="panel-body" >
 										<div class="table-responsive">
 											<table class="table table-bordered mb-none">
 												<thead>
@@ -528,7 +528,7 @@
 											</table>
 										</div>
 									</div>
-									<div class="panel-body" style="margin-top:3%">
+									<div class="panel-body" >
 										<div class="table-responsive">
 											<table class="table table-bordered mb-none">
 												<thead>
