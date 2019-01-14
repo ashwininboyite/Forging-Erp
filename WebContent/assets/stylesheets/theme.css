@@ -45,7 +45,16 @@ a:active {
 	right: 0;
 	top: 0;
 }
+.table thead tr{
+	background-color: #34495e;
+}
 
+.table tbody tr{
+	color: black;
+}
+.table{
+	color: beige;
+}
 /* Layout Base - Inner Wrapper */
 .inner-wrapper {
 	display: table;
