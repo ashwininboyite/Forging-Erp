@@ -377,33 +377,30 @@
 										<h5 class="panel-title">New/Edit...</h5>
 								</header>
 								
-    				<div class="panel-body" >					
-    								<div class="table-responsive">
+    				<div class="panel-body" >
+										<div class="table-responsive">
 											<table class="table table-bordered mb-none">
 												<thead>
 													<tr>
 														<th>JC NO</th>
-														<th>DATE</th>
-														
+														<th>Date</th>
 													</tr>
 												</thead>
 												<tbody>													
 													<tr>
 														<td>
-															<input type="text" class="form-control" id="profileFirstName" autocomplete="off">
+															<input type="text" class="form-control" id="profileFirstName" autocomplete="off" autofocus="off">
 															
 														</td>
 														<td>
-															<input type="text" class="form-control" id="profileFirstName" autocomplete="off">
+															<input type="date" class="form-control" id="profileFirstName" autocomplete="off">
 															
 														</td>
-														
 													</tr>
-													
 												</tbody>
 											</table>
 										</div>
-									
+									</div>
 						
     					<div class="panel-body" >
 										<div class="table-responsive">
